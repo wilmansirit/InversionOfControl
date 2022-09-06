@@ -1,0 +1,5 @@
+Instalar jest como sigue:
+npm install -D ts-jest @types/jest
+
+configurar jest
+npx ts-jest config:init
